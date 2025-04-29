@@ -9,11 +9,9 @@ The dataset used in this project is the California Housing Prices dataset, which
 ## Key Insights
 
 ### Data Cleaning & Preprocessing
-1. Handle Missing Values:
-   - Filled missing values in the total_bedrooms column with the median value of that column.
+1. Handle Missing Values: Filled missing values in the total_bedrooms column with the median value of that column.
 
-2. Feature Engineering:
-   - Created new categorical columns population_group and age_group using binning for visualization purposes.
+2. Feature Engineering: Created new categorical columns population_group and age_group using binning for visualization purposes.
 
 ### Visualizations Created
 - Count of Houses by Ocean Proximity: A countplot showing the distribution of houses based on their distance from the ocean.
